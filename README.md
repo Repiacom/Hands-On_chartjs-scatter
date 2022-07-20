@@ -3,7 +3,7 @@
 ![Scatter chart with one series](./scatter.png)
 
 ## Demo 
-https://handsondataviz.github.io/chartjs-scatter/
+https://repiacom.github.io/Hands-On_chartjs-scatter/
 
 Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey
 
